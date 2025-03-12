@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 hello their! this is my third page, wana update some thing more here..  
+=======
+hello their! this is my third page
+
+updates in some got-it!!
+
+added nested branch
+
+some more updated in nested branch
+>>>>>>> nested-branch
