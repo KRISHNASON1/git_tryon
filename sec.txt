@@ -1,11 +1,23 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello their! this is my third page, wana update some thing more here..  some more updates
 =======
 hello their! this is my third page, wana update some thing more here..  eqwe
 >>>>>>> third-time
 =======
+hello their! this is my third page, wana update some thing more here..  
+>>>>>>> sec-del
+=======
 hello their! this is my third page
 
 updates in some got-it!!
+<<<<<<< HEAD
 >>>>>>> got-it
+=======
+
+added nested branch
+
+some more updated in nested branch
+>>>>>>> nested-branch
+>>>>>>> sec-del
