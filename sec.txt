@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello their! this is my third page, wana update some thing more here..  some more updates
 =======
 hello their! this is my third page, wana update some thing more here..  eqwe
 >>>>>>> third-time
+=======
+hello their! this is my third page
+
+updates in some got-it!!
+>>>>>>> got-it
